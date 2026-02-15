@@ -324,7 +324,7 @@ This work is released to the **public domain**. Use it freely.
 
 ## Acknowledgments
 
-This work was developed in collaboration with Claude (Anthropic). The collaboration was genuine: core observations and intuitions are human; articulation, challenge, and refinement emerged through dialogue. All mathematical claims were verified computationally.
+This work was developed in collaboration with Claude (Anthropic) and ChatGPT (Open AI). The collaboration was genuine: core observations and intuitions are human; articulation, challenge, and refinement emerged through dialogue. All mathematical claims were verified computationally.
 
 ---
 
